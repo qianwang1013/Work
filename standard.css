@@ -1,0 +1,94 @@
+body{
+	background-color: rgba(209,209,209,0.2);
+}
+
+h2{
+	text-align: center;
+}
+
+#topBox{
+	position: relative;
+	width :  960px;
+	margin-top: 20px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 20px;
+	height: auto;
+}
+
+#topBox p{
+	margin-top: 90px;
+	font-size:20;
+	padding: 5px;
+	color: rgba(0,0,0,0.5);
+	text-indent: 50px;
+	font: Arial;
+}
+
+#inforBox{
+	position 		: relative;
+	width 			: 780px;
+	margin-top 		: 5px;
+	margin-bottom 		: auto;
+	border			: 1px solid rgba(0,0,0,0.3);
+	border-radius		: 7px 7px 7px 7px;	
+	background-color	: white;
+	height			: 200px;
+	margin-left		: 0px;
+	
+}
+
+
+#toolBar{
+
+	margin: 0;
+	margin-top: 10px;
+	padding-right: 0px;
+	font-size: 20px;
+	background-color: rgba(0,0,0,0.1);
+	border-bottom: rgba(0,0,0,0.3);
+	border			: 1px solid rgba(0,0,0,0.3);
+	border-radius		: 7px 7px 7px 7px;	
+}
+
+#toolBar li{
+	margin: 0;
+	padding-right: 10px;
+	display: inline;
+	border-right: 1px solid rgba(0,0,0,0.1);
+}
+
+#toolBar li:hover{
+	background-color: rgba(0,0,0,0.1);
+
+}
+
+
+
+#content{
+	position 		: relative;
+	width 			: 780px;
+	margin-top 		: 5px;
+	margin-bottom 		: auto;
+	border			: 1px solid rgba(0,0,0,0.3);
+	border-radius		: 7px 7px 7px 7px;	
+	background-color	: white;
+	height			: 500px;
+	margin-left		: 0px;
+
+}
+
+#content2{s
+	position 		: relative;
+	width 			: 170px;
+	margin-top 		: -710px;
+	margin-bottom 		: auto;
+	border			: 1px solid rgba(0,0,0,0.3);
+	border-radius		: 7px 7px 7px 7px;	
+	background-color	: white;
+	height			: 500px;
+	margin-right		: 0px;
+	margin-left		: auto;
+
+}
+
